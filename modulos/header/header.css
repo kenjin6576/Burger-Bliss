@@ -1,0 +1,18 @@
+header{
+    height: 64px;
+    background-color: gray;
+    width: 100%;
+    padding: 0 24px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo{
+    height: 30px;
+}
+
+header.menu{
+    height: 20px;
+}
